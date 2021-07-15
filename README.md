@@ -1,6 +1,6 @@
-# belajarbeneran
+# Introduction
 
-A new Flutter project.
+Internship project to build a bluetooth classic communication between ESP32 and Mobile App (Flutter)
 
 ## Getting Started
 
